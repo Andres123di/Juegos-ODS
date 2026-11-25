@@ -1,2 +1,2 @@
 Juego ODS
-<a href="Index.html">Juego</a>
+Ponlo al final de la URL Index.html
