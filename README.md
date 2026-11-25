@@ -1,2 +1,2 @@
 Juego ODS
-<a href="ods_2030_parkour_8_bit.html">Juego</a>
+<a href="Index.html">Juego</a>
